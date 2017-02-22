@@ -51,7 +51,7 @@ Pieter 雇过至少 4 个兼职合同工帮忙，不过他自己还是做了大�
 
 ## 碰到过一些什么大挑战？ - What have been some of the biggest challenges?
 
-刚开始时 Pieter 担心过用户存留率的问题：
+刚开始 Pieter 担心过用户存留率：
 
 > 我写了网站之后想，他们离开之后估计就再也不会回来了，所以我加了 [MailChimp](http://eepurl.com/cb60-X) 吸引用户留邮箱地址，之后弄了聊天群，还有论坛。吸引用户不断回来甚至付费。
 
