@@ -1,83 +1,90 @@
-## What is Nomad List?
+## 游民列表是什么? - What is Nomad List?
 
-[Nomad List](https://nomadlist.com/) finds the best places in the world for digital nomads to live and work remotely. It collects over 50,000 data points about 500+ cities around the world, from cost of living, to temperature, to safety. With that data, the site tries to make a good estimate of where you, as a digital nomad, should go next.
+[Nomad List](https://nomadlist.com/) 为远程工作者寻找适合工作和生活的城市。上面有 500+ 个城市的超过 5 万条数据。包括生活成本，温度，安全度，等等。通过这些数据，网站可以帮你估算出下一个可以去的地方。
 
-## Who's behind it?
 
-Nomad List was created in 2014 by [Pieter Levels](https://twitter.com/levelsio) as the fourth startup in his [12 Startups in 12 Months](https://levels.io/12-startups-12-months/) project. He's written that lurking on Hacker News since 2010 motivated him to learn to code and start building things, and that reading patio11's posts was particularly inspiring.
+## 谁创造了这个网站? - Who's behind it?
 
-## What were things like in the beginning?
+Nomad List 是 2014 年由 [Pieter Levels](https://twitter.com/levelsio) 写的，他当时在做 [12个月 12 个创业项目](https://levels.io/12-startups-12-months/)。 Nomad List 是第 4 个项目，Pieter 从 2010 年就经常看 Hacker News，激励了他自学编程然后做东西，patio11 发的帖对他影响最大。
 
-Pieter has written [extensively](https://levels.io/product-hunt-hacker-news-number-one/) about how things got started. The idea came to him by solving a problem of his own:
+## 刚开始时是怎样的? - What were things like in the beginning?
 
-> While traveling and working from different places in the world I met lots of other people doing the same thing. They were freelancers, remote employees or startup founders. I knew some cities had entire communities doing this like Chiang Mai, but it was hard to figure out what other cities would be suitable... I thought we needed a city index for remote workers.
+Pieter [把故事在这里写得很详细](https://levels.io/product-hunt-hacker-news-number-one/)。这个点子来自于解决他自己的问题 :
 
-One of the first things Pieter did was to get feedback and help from others:
+> 我之前一边全世界到处旅行一边工作，然后认识了很多和我一样的人。他们有的是自由职业者，有的为公司远程工作，有的是初创公司的创始人。我知道有些城市有很多这样的人，比如泰国清迈那边，但是很难弄清其他城市是否适合这种远程工作的生活方式.. 所以我觉得远程工作者们需要一个城市索引之类的东西
 
-> So I wanted to make a simple list of cities that were good for this kind of lifestyle. The primary factor for people that take part in this lifestyle is cost of living and quality of living. So I started collecting data on this for different cities. I knew I couldn't collect 50 indicators for 50 cities myself, as that'd be 2,500 data points to complete. I also knew I had to start out as basic as possible to test demand first.
+Pieter 从一开始就积极寻求反馈:
+
+> 我想写个简单的城市列表，标明各个城市是否适合这种生活方式。2 个很重要的因素是生活成本和生活质量。所以我马上开始收集各个城市的生活成本和生活质量数据。我知道我没法一个人收集齐 50 个城市，这样的话有 2500 个数据点要收集。我知道我得先验证需求再做。
 >
-> Instead of building a site first, I simply made a public Google spreadsheet to collect the first data and see if there'd be interest for this at all.
+> 所以我没有马上写代码，而是弄了个可以公开访问的 Google 电子表格来收集数据，然后看看其他人有没有兴趣。
 >
-> I was slightly stunned by the response. Apart from filling in all the data, people started adding columns for different indicators, like level of safety, coffee shop density and LGBTQ-friendliness...
+> 大家的积极度让我有点意外，不仅有人往里填数据，还有人往里加新指标，比如安全度，咖啡馆密集度，和 LGBTQ 友好度...
 
-The initial launch sort of happened by accident:
+产品第一次发布 (launch) 其实是个意外:
 
-> On June 24, I posted the link to the spreadsheet on Twitter. About a month later on July 29 I had to reboot my Linode server and since I had accidentally uploaded my local nginx.conf file to my server, suddenly the site went live. I didn't know until I suddenly started getting lots of tweets. The same day, a feature on TechInAsia about me went live. Then without me knowing, Emiel Janson submitted it to Product Hunt...
+> 6 月 24 号我把链接发到了 Twitter 上。大概一个月后， 7月29号, 我重启 Linode 服务器时不小心把本地的 nginx.conf 配置文件也传了上去，然后网站就上线了，我还不知道。后来有很多人发 Twitter 圈我我才知道。然后那天刚好有篇关于我的报道发布在了 TechInAsia 上。Emiel Janson 还在我不知道的情况下提交到了 Product Hunt 。
 >
-> It turned out to be the #5 most voted Product Hunt ever... Then I submitted it to Hacker News and bam, it went straight to #1 there too... Since it's hard to see referrers these days, I have to estimate based on the referral data I did get. Hacker News gets you about 50,000 unique visitors and Product Hunt about 12,000.
+> 后来在 Product Hunter 上我们得到的赞是全站第 5 高。之后我还提交到了 Hacker News，在上面直接蹦到了当日第一… 因为不知道这俩事具体带来了多少用户，我只能用现有数据估，Hacker News 大概给我带了 50,000 个访问。Product Hunt 大概是 12,000 个。
 
-## How much revenue does Nomad List generate?
+## Nomad List 带来了多少收入? - How much revenue does Nomad List generate?
 
-According to Pieter, Nomad List is [nearing $400k/year](https://news.ycombinator.com/item?id=12067113) and growing:
+据 Pieter 所说，[Nomad List 一年差不多 $40 万美金](https://news.ycombinator.com/item?id=12067113) ，而且还在上升：
 
-> The main site was always free and that became kind of a lead generation / acquisition funnel to have people sign up and become paid members. What they pay for is a chat group and forum (and some extra apps I made for digital nomads, like a trip planner on [NomadTrips.co](http://NomadTrips.co)). The price now is $75/year.
+> 主站是完全免费的，所以能吸引用户注册，然后说不定还能变成付费用户。付费得到是聊天群和论坛 (和一些额外功能，比如旅程规划工具 [NomadTrips.co](http://NomadTrips.co))。一年价格是 $75 美金
 >
-> I simply started by adding little features (like a chat), I charged $5 one-time first, because I was getting a lot of spammers. Even with $5, people kept joining. So I kept raising it, to $25, then $50, then $65, and then in April this year I made it annual and recurring. Sign ups have remained the same and even grow.
+> 我刚开始收费时只加了些简单功能（比如聊天）然后一次性收 5 美金。后来有人发垃圾信息，即便 5 美金的门槛还有人发垃圾信息，所以我不断提高价格，25 美金，50美金，65美金。然后 2016 年 4 月我换成了一年收费一次。注册数依然平稳且缓慢上升。
 
-About $80k of the annual revenue comes from the remote job board [RemoteOK.io](https://remoteok.io/) that Pieter later built and connected to Nomad list. Also, ads make up about 25% of the total revenue.
+这 $40 万里大概有 $8 万来自于远程工作招聘网站 [RemoteOK.io](https://remoteok.io/) Pieter 后来把它和 Nomad list 整合了起来。另外的话，这 $40 万里有 25% 收入来自广告。
 
-He had this to say about settling on $200/mo pricing for posting on the job board:
+在 RemoteOK 发一个招聘贴的价格是 200 美金一个月，关于这个价格， Pieter 说：
 
-> I usually start with a low price and then slowly raise it until I see a big drop off. Not scientific in any way but it works for me.
+> 我一般都从低价开始，然后逐渐提价，直到看到统计数据下滑才停，这个方法不是特别科学但是对我来说管用。
 
-## How does Nomad List grow?
+## Nomad List 是怎么增长的？ - How does Nomad List grow?
 
-Pieter doesn't spend any time on advertising, marketing, or PR. Nomad List is growing entirely via word of mouth:
+Pieter 完全没在广告，市场，或公共关系上面花时间。Nomad List 完全是靠口碑增长的：
 
-> The main site that's free ([https://nomadlist.com](https://nomadlist.com)) keeps being covered in mainstream press like Time, Times and HuffPo. I don't do any PR or marketing. So my CAC=$0\. It also ranks very well in search as it's linked to by so many other sites. Also not actively worked on that, it just happened because people liked my site. I've tried FB ads last month but only saw 4 conversions. So I think organic acquisition works best for me. Which means: Make a cool site, add paid features, make it recurring. Win.
+> 免费的主站 ([https://nomadlist.com](https://nomadlist.com)) 在主流媒体上如 Time, Times 和 HuffPo 被报道过几次。 我完全没做 PR 或市场营销。所以我的 CAC(用户获取成本) 是 0。另外，网站在 Google 搜索里排名很前，因为有很多网站引用了我们。我没有主动找他们去引用我们，他们这么做纯粹是喜欢我的网站。我上个月试了下 Facebook 广告，效果不是很好，只来了 4 个用户。所以我觉得 “有机获取”（organic acquisition） 对我来说最管用。有机获取的意思是：造个有用的网站，加上付费功能，然后按时间收费，没了。
 
-Through it all, Pieter has hired at least 4 part-time contractors to help. Regardless, he still does the vast majority of the work needed to run the business, saying "95% of work is still just me."
+Pieter 雇过至少 4 个兼职合同工帮忙，不过他自己还是做了大部分的事，他说 “95% 的事都是我做的”
 
-## What have been some of the biggest challenges?
+## 碰到过一些什么大挑战？ - What have been some of the biggest challenges?
 
-At first, one of Pieter's biggest concerns was user retention:
+刚开始时 Pieter 担心过用户存留率的问题：
 
-> I built the site, but then I thought, omg I'm going to lose all these users once they leave. So I added a [MailChimp](http://eepurl.com/cb60-X) email box, then a chat group, a forum and kept making more for them. That's how people kept coming back and finally paying money.
+> 我写了网站之后想，他们离开之后估计就再也不会回来了，所以我加了 [MailChimp](http://eepurl.com/cb60-X) 吸引用户留邮箱地址，之后弄了聊天群，还有论坛。吸引用户不断回来甚至付费。
 
-Pieter has also written about the hardest parts of his journey:
+Pieter 还写了 “旅程” 中最困难的部分：
 
-> I think early on capturing a new market quickly, keeping it while lots of competitors (including funded ones) keep coming in again and again and try to copy everything you did but do it better. And then hopefully don't get traction, haha. Also dealing with the hate you get when you charge for an online service requires you to grow a thick skin.
+> 我觉得要尽早占领市场，然后保持住，挡住各类竞争者的进攻（有些甚至还拿了投资），那些竞争者会复制所有功能并且试着做得比你好。还有就是脸皮要厚，刚开始收费的时候有些人可不喜欢。
 
-## How has Nomad List handled competition?
+## Nomad List 怎么应对竞争者? - How has Nomad List handled competition?
 
-> I mostly try to ignore competition and stubbornly make what I would like to use myself. It helps that I am a "nomad" myself, so I know kinda what they need.
+> 我都忽略竞争者，做自己要的功能，因为这个产品解决的是我自己的问题，所以我大概知道用户想要什么。
 >
-> I think BECAUSE I work almost 100% alone, I work faster than big teams (the mythical man month thing). The stuff I make isn't top-notch, but it works just good enough for people to enjoy using it. It's not super hip flashy designed, but it does what users want it to do. I see many other (especially funded) startups build really flashy stuff with huge 20+ people teams. And it looks great but it's not simple to use for people.
+> 我想另一个大因素是就我一个人在做，所以我比那些大团队要快。我做的东西不是顶尖的，但足够好用。网站本身不是特别好看，但足够完成用户想要的功能了。我见过很多其他产品（特别拿了投资的） 20人+ 的团队做了个特别好看的产品，但不好用。
 
-## What tech stack does Nomad List run on?
+## 技术栈是什么？ - What tech stack does Nomad List run on?
 
-> It's HTML, CSS, JavaScript and PHP. It's hosted on a Linode VPS on Ubuntu running NGINX.
+> HTML, CSS, JavaScript 和 PHP。服务器用的是 Linode VPS，操作系统 Ubuntu 然后还用了 Nginx。
 >
-> Most of the site is written in plain simple code by me without any frameworks. Nomad Forum uses an off-the-shelf forum app which I heavily customized called Discourse. The chat runs on Slack.
+> 网站大部分都是纯代码，没用框架。论坛的话我是拿 Discourse 开源论坛改的，做了深度定制。聊天用的是 Slack。
 
 <div>partner</div>
 
-## Where can we learn more about Pieter and Nomad List?
+## 想了解更多? - Where can we learn more about Pieter and Nomad List?
 
-Pieter [posts regularly](https://news.ycombinator.com/user?id=pieterhg) on Hacker News.
+Pieter [经常在 Hacker News 发帖](https://news.ycombinator.com/user?id=pieterhg)。
 
-He prefers to be contacted via his Twitter account: [@levelsio](https://twitter.com/levelsio).
+他比较喜欢用 Twitter 联系： [@levelsio](https://twitter.com/levelsio).
 
-He also posts on his [personal blog](https://levels.io).
+他也在 [个人博客发东西](https://levels.io)。
 
-Last but not least, be sure to check out [Nomad List](http://nomadlist.com/) itself!
+最后别忘了看下 [Nomad List](http://nomadlist.com/) itself！
+
+### Translated by Zheng Cheng
+[Github@1c7](https://github.com/1c7)，Ruby on Rails developer and side project enthusiast. currently living in GuangZhou, China. Remote working.
+
+### 译者：郑诚
+[Github@1c7](https://github.com/1c7)，[新浪微博@糖醋陈皮](http://weibo.com/u/2004104451)，现居广州，Ruby on Rails 远程工作中。在一边工作一边在忙美国留学。
