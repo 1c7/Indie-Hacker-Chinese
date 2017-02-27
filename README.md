@@ -3,10 +3,13 @@ Markdown & JSON
 
 ## Finished
 
-* [Nomad List](https://www.indiehackers.com/businesses/nomad-list) (by 糖醋陈皮)
+* [Nomad List](https://www.indiehackers.com/businesses/nomad-list) by [郑诚(Cheng Zheng)](https://github.com/1c7)
 
 ## Translating
 
-* [varicode](https://www.indiehackers.com/businesses/variacode) by 蒋瑶
+* [varicode](https://www.indiehackers.com/businesses/variacode) by [蒋瑶(Lavender Jiang)](https://github.com/Lavenderjiang)
 
-* [Instapainting](https://www.indiehackers.com/businesses/instapainting) by 糖醋陈皮
+* [Instapainting](https://www.indiehackers.com/businesses/instapainting) by [郑诚(Cheng Zheng)](https://github.com/1c7)
+
+
+
