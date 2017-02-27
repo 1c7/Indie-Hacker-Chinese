@@ -1,5 +1,4 @@
 # Indie Hacker interview in Chinese
-(https://www.indiehackers.com/businesses/)[https://www.indiehackers.com/businesses/]
 Markdown & JSON
 
 ## Finished
@@ -8,6 +7,6 @@ Markdown & JSON
 
 ## Translating
 
-蒋瑶：varicode https://www.indiehackers.com/businesses/variacode
+* [varicode](https://www.indiehackers.com/businesses/variacode) by 蒋瑶
 
-糖醋陈皮：Instapainting https://www.indiehackers.com/businesses/instapainting
+* [Instapainting](https://www.indiehackers.com/businesses/instapainting) by 糖醋陈皮
