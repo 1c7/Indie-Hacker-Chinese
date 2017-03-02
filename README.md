@@ -11,5 +11,6 @@ Markdown & JSON
 
 * [Instapainting](https://www.indiehackers.com/businesses/instapainting) by [郑诚(Cheng Zheng)](https://github.com/1c7)
 
+* [IdeaCheck.io](https://www.indiehackers.com/businesses/ideacheck-io) by [郑诚(Cheng Zheng)](https://github.com/1c7)
 
 
