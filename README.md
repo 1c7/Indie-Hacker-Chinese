@@ -7,7 +7,7 @@ Markdown & JSON
 
 ## Translating
 
-* [varicode](https://www.indiehackers.com/businesses/variacode) by [蒋瑶(Lavender Jiang)](https://github.com/Lavenderjiang)
+* [varicode](https://www.indiehackers.com/businesses/variacode) by [蒋遥(Lavender Jiang)](https://github.com/Lavenderjiang)
 
 * [Instapainting](https://www.indiehackers.com/businesses/instapainting) by [郑诚(Cheng Zheng)](https://github.com/1c7)
 
