@@ -14,11 +14,11 @@ Markdown & JSON
 
 ## Translator List - 译者列表
 * [蒋遥(Lavender Jiang)](https://github.com/Lavenderjiang)
-* [郑诚(Cheng Zheng)](https://github.com/1c7) Email: guokrfans_at_gmail.com
+* [郑诚(Cheng Zheng)](https://github.com/1c7) Email: guokrfans@gmail.com
 
 
 ---
 ### 若有兴趣加入翻译
 
 
-可联系 guokrfans@gmail.com，我会告诉你整个翻译流程是怎么运作的，然后拉你进一个译者微信群
+可联系 guokrfans@gmail.com，我会告诉你整个翻译流程是怎么运作的，然后拉你进一个译者微信群。欢迎加入 :)
