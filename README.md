@@ -1,4 +1,4 @@
-# Indie Hacker interview in Chinese
+# Indie Hacker interview in Chinese (Project Pause)
 Markdown & JSON
 
 ## Finished - 已完成
@@ -20,7 +20,7 @@ Markdown & JSON
 ---
 ### 若有兴趣加入翻译
 
-~~可联系 guokrfans@gmail.com，我会告诉你整个翻译流程是怎么运作的，然后拉你进一个译者微信群。欢迎加入 :)~~
+~~可联系 guokrfans@gmail.com，我会告诉你整个翻译流程是怎么运作的，然后拉你进一个译者微信群。欢迎加入 :)~~  
 更新：
 和站长(Courtland Allen)邮件沟通他说策略改了，做多语言版的事情搁置下来了。不确定会不会做。那么我们也没法做下去了。
 抱歉
