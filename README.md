@@ -1,3 +1,11 @@
+# 最新说明
+之前翻译 Indie Hacker 的事情因为被 Stripe 收购打断了。
+所以现在我们做了一个 Sideidea.com。
+重点是采访国内开发者的故事。当然也翻译一些 Indie Hacker 的内容。
+
+
+---
+
 # Indie Hacker interview in Chinese (Project Pause)
 Markdown & JSON
 
@@ -21,7 +29,7 @@ Markdown & JSON
 ### 若有兴趣加入翻译
 
 ~~可联系 guokrfans@gmail.com，我会告诉你整个翻译流程是怎么运作的，然后拉你进一个译者微信群。欢迎加入 :)~~  
-更新：
+~~更新：
 和站长(Courtland Allen)邮件沟通他说策略改了，因为给 Stripe 收购了。  
 做多语言版的事情搁置下来了。所以不只是中文，其他语言也不确定会不会做。那么我们也没法做下去了。
-抱歉。
+抱歉。~~
