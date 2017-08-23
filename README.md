@@ -1,8 +1,10 @@
 # 最新说明
 之前翻译 Indie Hacker 的事情因为被 Stripe 收购打断了。
-所以现在我们做了一个 Sideidea.com。
-重点是采访国内开发者的故事。当然也翻译一些 Indie Hacker 的内容。
-
+所以我和一个朋友做了 [Sideidea.com](http://www.sideidea.com)。
+2017 年 8 月正式上线的。    
+采访国内开发者的故事。     
+当然也翻译一些 Indie Hacker 的内容。    
+有兴趣可联系 hi@sideidea.com 谢谢。
 
 ---
 
